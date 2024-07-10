@@ -1,0 +1,20 @@
+deviceProp.clockRate = 1560000
+deviceProp.totalGlobalMem = 16856186880 (16GB)
+deviceProp.warpSize = 32
+deviceProp.totalConstMem = 65536
+deviceProp.canMapHostMemory = 1
+deviceProp.minor = 6
+
+deviceProp.sharedMemPerBlockOptin = 101376
+deviceProp.sharedMemPerBlock = 49152
+deviceProp.sharedMemPerMultiprocessor = 102400
+
+deviceProp.multiProcessorCount = 48
+deviceProp.maxBlocksPerMultiProcessor = 16
+deviceProp.maxThreadsPerBlock = 1024
+deviceProp.maxThreadsPerMultiProcessor = 1536
+
+deviceProp.regsPerBlock = 65536
+deviceProp.regsPerMultiprocessor = 65536
+
+deviceProp.maxGridSize[0] = 2147483647, deviceProp.maxGridSize[1] = 65535, deviceProp.maxGridSize[2] = 65535
